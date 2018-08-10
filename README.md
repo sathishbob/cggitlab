@@ -1,1 +1,1 @@
-This is CG Git training session
+This is CG Git training session training
